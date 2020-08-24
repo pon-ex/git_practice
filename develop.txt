@@ -1,2 +1,3 @@
+Bさんが変更
 ローカルで変更
 develop-fixed
